@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hi!<br> I’m Batoul, a Computer Science student with a passion for coding and technology<br> Check out my projects!
+<br> I’m Batoul, a Computer Science student with a passion for coding and technology<br> Check out my projects!
 
 
 ## 🌐 Socials:
